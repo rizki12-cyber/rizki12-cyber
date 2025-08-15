@@ -13,18 +13,10 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://skillicons.dev/icons?i=laravel" width="50" />
-  </a>
-  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://skillicons.dev/icons?i=php" width="50" />
-  </a>
-  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://skillicons.dev/icons?i=js" width="50" />
-  </a>
-  <!-- tambahkan icon lainnya dengan format yang sama -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind,mysql,sqlite,git,github,vscode,postman" />
 </p>
+
 
 
 
