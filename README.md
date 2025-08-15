@@ -14,8 +14,13 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind,mysql,sqlite,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind,mysql,sqlite,git,github,vscode,postman" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=500&lines=Laravel;PHP;JavaScript;MySQL;GitHub;TailwindCSS" alt="Skills Typing Animation" />
+</p>
+
 
 ---
 
