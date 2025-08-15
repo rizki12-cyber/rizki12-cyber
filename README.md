@@ -21,15 +21,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RizqiApriana&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RizqiApriana&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizki12-cyber&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizki12-cyber&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RizqiApriana&theme=radical&no-frame=true&column=3&title=Commit,Stars,Repositories" />
+<img src="https://github-profile-trophy.vercel.app/?username=rizki12-cyber&theme=radical&no-frame=true&column=3&title=Commit,Stars,Repositories" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ## 🎮 Play My Pac-Man Game
 <p align="center">
-<a href="https://rizqi12-cyber.github.io/pacman/" target="_blank">
+<a href="https://rizki12-cyber.github.io/pacman/" target="_blank">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" alt="Pac-Man" />
 </a>
 </p>
