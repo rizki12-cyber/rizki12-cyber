@@ -16,9 +16,6 @@
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <!-- Icon Tech Stack -->
   <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind,mysql,sqlite,git,github,vscode,postman" />
-
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=400&lines=Laravel;PHP;JavaScript;MySQL;GitHub;TailwindCSS" alt="Skills Typing Animation" />
 </p>
 
 
