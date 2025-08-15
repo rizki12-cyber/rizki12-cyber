@@ -29,7 +29,7 @@
 
 ## 🏆 Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RizqiApriana&theme=onedark&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=RizqiApriana&theme=radical&no-frame=true&column=3&title=Commit,Stars,Repositories" />
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 🎮 Play My Pac-Man Game
 <p align="center">
 <a href="https://rizqi12-cyber.github.io/pacman/" target="_blank">
-  <img src="https://img.shields.io/badge/Play%20PacMan-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" alt="Pac-Man" />
 </a>
 </p>
 
