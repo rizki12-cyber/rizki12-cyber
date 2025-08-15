@@ -53,12 +53,13 @@
 
 ---
 
-## 🎮 Play My Pac-Man Game
+## ​ Play My Pac-Man Game
 <p align="center">
-<a href="https://rizki12-cyber.github.io/pacman/" target="_blank">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" alt="Pac-Man" />
-</a>
+  <a href="https://rizki12-cyber.github.io/pacman/" target="_blank">
+    <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" alt="Pac-Man" />
+  </a>
 </p>
+
 
 ---
 
