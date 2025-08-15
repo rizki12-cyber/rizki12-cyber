@@ -13,10 +13,19 @@
 ---
 
 ## 🚀 Tech Stack
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <!-- Icon Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,bootstrap,tailwind,mysql,sqlite,git,github,vscode,postman" />
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=laravel" width="50" />
+  </a>
+  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=php" width="50" />
+  </a>
+  <a href="#" target="_blank" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://skillicons.dev/icons?i=js" width="50" />
+  </a>
+  <!-- tambahkan icon lainnya dengan format yang sama -->
 </p>
+
 
 
 
@@ -26,6 +35,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rizki12-cyber&show_icons=true&theme=tokyonight" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizki12-cyber&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
