@@ -36,9 +36,20 @@
 
 ## 🎯 Fun Section
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="400"/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="400"/>
+  <!-- Random Dev Meme -->
+  <img src="https://random-memer.herokuapp.com/" width="300" alt="Random Meme" />
 </p>
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=rizki12-cyber&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <!-- Random Cat Image -->
+  <img src="https://cataas.com/cat/gif" width="300" alt="Random Cat" />
+</p>
+
 
 ---
 
