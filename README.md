@@ -10,12 +10,12 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🔭 Working on **Laravel-based Library System** 📚  
-- 🌱 Learning **Laravel | Livewire | Vue.js | GitHub Actions**  
-- 💬 Ask me about **PHP, Laravel, MySQL, Clean Architecture**  
-- ☕ Coffee + 🎧 Lo-Fi = Focus Mode  
-- ⚡ Fun fact: I debug better after midnight 🌙  
+## 👨‍💻 Tentang Saya  
+- 🔭 Sedang mengerjakan **Sistem Perpustakaan berbasis Laravel** 📚  
+- 🌱 Sedang mendalami **Laravel | Livewire | Vue.js | GitHub Actions**  
+- 💬 Tanyakan kepada saya seputar **PHP, Laravel, MySQL, dan Clean Architecture**  
+- ☕ Kopi + 🎧 Lo-Fi = Kombinasi fokus terbaik untuk ngoding  
+- ⚡ Fakta unik: Saya lebih jago debugging setelah tengah malam 🌙  
 
 ---
 
