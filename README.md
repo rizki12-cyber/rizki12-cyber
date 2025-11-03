@@ -1,8 +1,12 @@
 <!-- 🌟 Rizki Apriana | Interactive GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Rizki+Apriana+👋;Full+Stack+Developer+%7C+Laravel+Enthusiast;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=700&color=FF00FF,00FFFF,FFD700,FF1493,00FF7F&lines=Halo!+Saya+Rizki+Apriana+👋;Full+Stack+Developer+%7C+Laravel+Enthusiast;Kontributor+Open+Source+%7C+Pecinta+Teknologi" 
+    alt="Typing SVG" 
+  />
 </h1>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
