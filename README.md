@@ -1,11 +1,24 @@
 <!-- 🌟 Rizki Apriana | Interactive GitHub Profile -->
 
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&center=true&vCenter=true&width=700&color=FF00FF,00FFFF,FFD700,FF1493,00FF7F&lines=Halo!+Saya+Rizki+Apriana+👋;Full+Stack+Developer+%7C+Laravel+Enthusiast;Kontributor+Open+Source+%7C+Pecinta+Teknologi" 
-    alt="Typing SVG" 
-  />
+  <svg viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="rainbow" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#ff0055">
+          <animate attributeName="stop-color" values="#ff0055;#00ffff;#00ff7f;#ffd700;#ff00ff;#ff0055" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#00ffff">
+          <animate attributeName="stop-color" values="#00ffff;#00ff7f;#ffd700;#ff00ff;#ff0055;#00ffff" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      font-family="Fira Code, monospace" font-size="32" fill="url(#rainbow)">
+      Halo! Saya Rizki Apriana 👋
+    </text>
+  </svg>
 </h1>
+
 
 
 <div align="center">
