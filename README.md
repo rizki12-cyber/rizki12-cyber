@@ -1,216 +1,256 @@
 <!-- 🌟 Rizki Apriana | Interactive GitHub Profile -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rizki%20Apriana&fontSize=60&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Enthusiast&descSize=20&descAlignY=51" alt="Header" />
+</div>
+
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=900&lines=✨+Halo,+Saya+Rizki+Apriana!+👋;💻+Full+Stack+Developer+%7C+Pecinta+Laravel;🌱+Kontributor+Open+Source+%7C+Penjelajah+Teknologi" 
-    alt="Animasi Mengetik"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=✨+Hello%2C+I'm+Rizki+Apriana!+👋;💻+Full+Stack+Developer+%7C+Laravel+Lover;🚀+Open+Source+Contributor+%7C+Tech+Explorer;🌙+Midnight+Coder+%7C+Problem+Solver" alt="Typing Animation" />
 </h1>
 
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya  
-- 🔭 Sedang mengerjakan **Sistem Perpustakaan berbasis Laravel** 📚  
-- 🌱 Mendalami **Laravel | Livewire | Vue.js | GitHub Actions**  
-- 💬 Tanyakan seputar **PHP, Laravel, MySQL, dan Clean Architecture**  
-- ☕ Kopi + 🎧 Lo-Fi = Kombinasi fokus terbaik untuk ngoding  
-- 🌙 Fakta unik: Saya lebih jago debugging setelah tengah malam  
+## 📋 **About Me**
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+      </div>
+    </td>
+    <td width="50%">
+      <p>🎯 <strong>Currently working on:</strong> Library Management System with Laravel 📚</p>
+      <p>🌱 <strong>Learning:</strong> Laravel | Livewire | Vue.js | GitHub Actions</p>
+      <p>💡 <strong>Expertise:</strong> PHP, Laravel, MySQL, Clean Architecture</p>
+      <p>☕ <strong>Perfect Combo:</strong> Coffee + Lo-Fi = Ultimate Focus</p>
+      <p>🌙 <strong>Fun Fact:</strong> Debugging skills peak after midnight!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠️ **Tech Stack**
 
-<p align="center">
-  <i>Teknologi dan tools yang saya gunakan untuk membangun proyek dan mengeksekusi ide 💡</i>
-</p>
-
-### 💻 Bahasa Pemrograman
+### **Programming Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,dart,c,cpp,go,rust,kotlin,swift&theme=dark" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</div>
+
+### **Backend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</div>
+
+### **Database & Cloud**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### **Tools & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### ⚙️ Framework & Library
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,react,flutter,nodejs,express,nextjs,nuxtjs,spring,tailwind,bootstrap,jquery&theme=dark" />
-</div>
-
----
-
-### 🗄️ Database & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase,supabase,redis,aws,vercel,netlify,heroku,docker&theme=dark" />
-</div>
-
----
-
-### 🧩 Tools & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,nginx,kubernetes,vscode,postman,linux,bash,powershell,githubactions,jenkins,circleci&theme=dark" />
-</div>
-
----
-
-### 🧪 Testing & Monitoring
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,jest,postman,datadog&theme=dark" />
-</div>
-
----
-
-### 🎨 Desain & Produktivitas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,notion,discord,obsidian,trello,jira&theme=dark" />
-</div>
-
----
-
-### 🎮 Game & E-sports Tools (opsional)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,garena&theme=dark" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Is%20My%20Art-00C8FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Build%20With%20Passion-8A2BE2?style=for-the-badge&logo=heart" />
-  <img src="https://img.shields.io/badge/Code%20With-Passion-ff6f61?style=for-the-badge&logo=heart" />
-  <img src="https://img.shields.io/badge/Loves%20Open%20Source-8A2BE2?style=for-the-badge&logo=github" />
-</p>
-
-
----
-
-## 📊 Statistik GitHub  
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <!-- Total Stat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rizki12-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" height="165" alt="GitHub Stats" />
   
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizki12-cyber&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <!-- Activity Graph dengan area fill & gradient -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizki12-cyber&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00C8FF&line=8A2BE2" width="96%" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
+  <!-- GitHub Stats with Custom Theme -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizki12-cyber&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&bg_color=30,0d1117,161b22&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" />
+  
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=rizki12-cyber&theme=radical&border_radius=15&background=161B22&fire=00D4FF&ring=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF" />
+  
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizki12-cyber&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizki12-cyber&layout=compact&theme=radical&border_radius=15&bg_color=30,161b22,0d1117&title_color=00D4FF&text_color=ffffff" />
+  
 </div>
 
-
----
-
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rizki12-cyber&theme=dracula&no-frame=true&margin-w=10&row=1&column=6" />
+  
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rizki12-cyber&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&color=00D4FF&line=8A2BE2&point=FFFFFF&area_color=00D4FF" />
+  
 </div>
 
 ---
 
-## ✨ Inspirasi Hari Ini  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=💭+Setiap+baris+koding+adalah+langkah+menuju+mimpi.;🚀+Terus+belajar,+terus+berkarya,+dan+tetap+bermakna.;🌟+Kegigihan+adalah+kunci+di+balik+setiap+inovasi." alt="Inspirasi Hari Ini" />
-</p>
-
-
----
-
-## 🎉 Zona Santai Developer 😸  
-
-<p align="center">
-  <i>Karena bahkan developer juga butuh hiburan! ☕😂</i>
-</p>
+## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <!-- Tambahan Giphy lucu -->
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="180" alt="Coding Fun" />
-  <p><i>Ngoding boleh serius, tapi jangan lupa senyum 😄</i></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=rizki12-cyber&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
+---
+
+## 📈 **Contribution Metrics**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizki12-cyber&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizki12-cyber&theme=radical" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizki12-cyber&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizki12-cyber&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🌐 Jejak Digital & Koneksi  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rizki12-cyber&label=👁‍🗨+Dilihat+Oleh&color=00C8FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rizki12-cyber?label=Pengikut&style=for-the-badge&color=brightgreen" />
-  <img src="https://img.shields.io/github/stars/rizki12-cyber?label=Bintang&style=for-the-badge&color=yellow" />
-</p>
+## 📫 **Connect With Me**
 
 <div align="center">
+  
   <!-- GitHub -->
   <a href="https://github.com/rizki12-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-rizki12--cyber-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <!-- Email -->
-  <a href="mailto:rizkiapriana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rizqiapriana.%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/rizkiapriana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rizki%20Apriana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  
   <!-- Instagram -->
   <a href="https://www.instagram.com/rizq__12/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40rizq__12-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
+  
+  <!-- Email -->
+  <a href="mailto:rizkiapriana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://rizkiapriana" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  
   <!-- YouTube -->
   <a href="https://www.youtube.com/@rizkiapriana" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Rizki%20Apriana-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-
-  <!-- Portfolio Website -->
-  <a href="https://rizkiapriana" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portofolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
+  
 </div>
 
 ---
 
-## 🌈 Penutup yang Berkilau ✨  
+## 🎨 **Visitor Counter & Metrics**
 
 <div align="center">
-  <p>
-    <i>Terima kasih sudah mampir ke "dunia kode" saya! 💖</i><br>
-    <i>Jangan lupa kasih ⭐ di repo yang bikin hati kamu berdebar 💻💓</i><br>
-    <i>Stay kreatif, tetap #CodingSambilNgopi ☕✨, dan sampai jumpa di commit berikutnya!</i>
-  </p>
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=rizki12-cyber&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/rizki12-cyber?label=Followers&style=for-the-badge&color=00D4FF" alt="GitHub Followers" />
+  
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/rizki12-cyber?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="GitHub Stars" />
+  
 </div>
+
+---
+
+## 💭 **Daily Inspiration**
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C8FF,100:8A2BE2&text=🌟+Sampai+Jumpa+di+Kode+Berikutnya!+💻&animation=twinkling&fontColor=ffffff&fontAlignY=35&fontSize=24"
-    alt="Gradient Footer"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Code+is+poetry+in+motion+💻;🌱+Every+line+of+code+is+a+step+towards+greatness;✨+Keep+learning%2C+keep+growing%2C+keep+coding;💡+The+best+debugging+tool+is+a+good+night's+sleep+😴" alt="Inspiration" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Thank You Animation" />
-</p> 
+---
 
+## 🎮 **Fun Zone**
 
+<div align="center">
+  
+  <!-- Random Dev Joke -->
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=00D4FF" alt="Dev Jokes" />
+  
+  <!-- Quote -->
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  
+</div>
+
+---
+
+## 🌟 **Support & Badges**
+
+<div align="center">
+  
+  <!-- Support -->
+  <a href="https://www.buymeacoffee.com/rizkiapriana" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/Coffee%20Lover-%E2%98%95%EF%B8%8F-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Night%20Owl-🌙-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-Expert-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks+for+visiting!+✨&fontSize=30&fontAlignY=65&animation=fadeIn" alt="Footer" />
+  
+  <br/>
+  
+  <!-- Final Animation -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" alt="Goodbye" />
+  
+  <p>⭐️ Feel free to star any repositories that catch your eye!</p>
+  
+</div>
